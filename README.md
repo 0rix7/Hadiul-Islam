@@ -1,9 +1,9 @@
 # Hi there, I'm  [Hadiul Islam][website] 👋
 
 ## I'm a Web Developer!
-- 🌱 I’m currently learning everything 🤣
+
 - 🥅 2021 Goals: C, TypeScript, Next.js, Vue , Angular
-- ⚡ Fun fact: I love to Explore the world 
+
 
 ### Connect with me:
 
