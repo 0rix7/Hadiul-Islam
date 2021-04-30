@@ -11,7 +11,6 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/hadiulislam.official) 
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@hadiul-islam) 
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/14697411/hadiul-islam?tab=profile)
-
 <br />
 
 ### Languages and Tools:
@@ -43,6 +42,7 @@
 <img width="550px" alt="Hadiul Islam Github Stats"  src="https://github-readme-stats.vercel.app/api?username=hadiul-islam&show_icons=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=hadiul-islam&card_width=550)](https://github.com/hadiul-islam/hadiul-islam)
+<br />
 ![Profile views](https://gpvc.arturio.dev/hadiul-islam)
 
 
