@@ -1,6 +1,6 @@
 # Hi there, I'm  [Hadiul Islam][website] 👋
 
-## I'm a <span style={color: red}>M E R N</span> Stack Developer!
+## I'm a <span style="color: red">M E R N</span> Stack Developer!
 
 - 🥅 2021 Goals: C, TypeScript, Next.js, Vue , Angular
 
