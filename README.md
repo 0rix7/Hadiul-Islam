@@ -42,8 +42,7 @@
 <img width="550px" alt="Hadiul Islam Github Stats"  src="https://github-readme-stats.vercel.app/api?username=hadiul-islam&show_icons=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=hadiul-islam&card_width=550)](https://github.com/hadiul-islam/hadiul-islam)
-<br />
-![Profile views](https://gpvc.arturio.dev/hadiul-islam)
+
 
 
 
