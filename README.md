@@ -1,6 +1,6 @@
 # Hi there, I'm  [Hadiul Islam][website] 👋
 
-## I'm a Web Developer!
+## I'm a M E R N Stack Developer!
 
 - 🥅 2021 Goals: C, TypeScript, Next.js, Vue , Angular
 
