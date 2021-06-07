@@ -3,11 +3,17 @@
 ## I'm a [M E R N] Stack Developer!
 
 
-- 📚 I’m currently learning React, Javascript, Nodejs and Firebase.
+- 📚 I’m currently learning React-native, , c++..
 - 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects.
+- 🥅 2021 Goals: learn c++, start problem solving, Contribute to Open Source projects.
 - ⚡ Fun fact: I love to make delicious food on my free time & travel new places.
 
+# Programming Knowledge
+
+- <strong>Expertise:</strong> JavaScript, ES6, React.js, REST API, React Bootstrap, Bootstrap5, HTML5, CSS3 
+- <strong>Comfortable:</strong> Material UI,Node.js, Express.js, EJS, MongoDB, JSON, SASS
+- <strong>Familiar:</strong> Redux.js, TypeScrip WordPress, Tailwind, React Native, Python
+- <strong>Tools:</strong> Git, VS Code, Chrome Dev tool, Firebase, Netlify, Heroku
 
 ### Connect with me:
 
