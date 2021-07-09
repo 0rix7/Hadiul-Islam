@@ -3,16 +3,16 @@
 ## I'm a [M E R N] Stack Developer!
 
 
-- 📚 I’m currently learning React-native, , c++..
+- 📚 I’m currently c++..
 - 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2021 Goals: learn c++, start problem solving, Contribute to Open Source projects.
+- 🥅 2022 Goals: become a 5 star coder, Contribute to more Open Source projects.
 - ⚡ Fun fact: I love to make delicious food on my free time & travel new places.
 
 # Programming Knowledge
 
 - <strong>Expertise:</strong> JavaScript, ES6, React.js, REST API, React Bootstrap, Bootstrap5, HTML5, CSS3 
 - <strong>Comfortable:</strong> Material UI,Node.js, Express.js, EJS, MongoDB, JSON, SASS
-- <strong>Familiar:</strong> Redux.js, TypeScrip WordPress, Tailwind, React Native, Python
+- <strong>Familiar:</strong> Redux.js, TypeScrip, WordPress, Tailwind, React Native, Python,c, c++
 - <strong>Tools:</strong> Git, VS Code, Chrome Dev tool, Firebase, Netlify, Heroku
 
 ### Connect with me:
@@ -21,11 +21,7 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/hadiulislam.official) 
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@hadiul-islam) 
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/14697411/hadiul-islam?tab=profile)
-<br />
 
-
-
-<br />
 <br />
 <img width="550px" alt="Hadiul Islam Github Stats"  src="https://github-readme-stats.vercel.app/api?username=hadiul-islam&show_icons=true"/>
 
