@@ -1,6 +1,6 @@
 # Hi there, I'm  [Hadiul Islam][website] 👋
 
-- 📚 I’m currently learning soketio, c++..
+- 📚 I’m currently learning severything..
 - 👯 I’m looking to collaborate with other passionate developers.
 - 🥅 2022 Goals: become a 5 star coder, Contribute to more Open Source projects.
 - ⚡ Fun fact: I love to make delicious food on my free time & travel new places.
