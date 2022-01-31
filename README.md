@@ -1,6 +1,6 @@
 # Hi there, I'm  [Hadiul Islam][website] 👋
 
-- 📚 I’m currently learning severything..
+- 📚 I’m currently learning Typescript..
 - 👯 I’m looking to collaborate with other passionate developers.
 - 🥅 2022 Goals: become a 5 star coder, Contribute to more Open Source projects.
 - ⚡ Fun fact: I love to make delicious food on my free time & travel new places.
@@ -27,11 +27,11 @@
 
 
 
-[website]: https://hadiul.me/
-[twitter]: https://twitter.com/hadiul_i
+[website]: https://hadiul-islam.web.app/
+[twitter]: https://twitter.com/hadiul_official
 [linkedin]: https://linkedin.com/hadiul
-[webdevplaylist]: https://hadiul.me/
-[jsplaylist]: https://hadiul.me/
-[cssplaylist]: https://hadiul.me/
-[reactplaylist]: https://hadiul.me/
+[webdevplaylist]: https://hadiul-islam.web.app/
+[jsplaylist]: https://hadiul-islam.web.app/
+[cssplaylist]: https://hadiul-islam.web.app/
+[reactplaylist]: https://hadiul-islam.web.app/
 [M E R N]: https://www.mongodb.com/mern-stack
