@@ -27,11 +27,11 @@
 
 
 
-[website]: https://hadiul-islam.web.app/
+[website]: https://hadiul-islam.me/
 [twitter]: https://twitter.com/hadiul_official
 [linkedin]: https://linkedin.com/hadiul
-[webdevplaylist]: https://hadiul-islam.web.app/
-[jsplaylist]: https://hadiul-islam.web.app/
-[cssplaylist]: https://hadiul-islam.web.app/
-[reactplaylist]: https://hadiul-islam.web.app/
+[webdevplaylist]: https://hadiul-islam.me/
+[jsplaylist]: https://hadiul-islam.me/
+[cssplaylist]: https://hadiul-islam.me/
+[reactplaylist]: https://hadiul-islam.me/
 [M E R N]: https://www.mongodb.com/mern-stack
